@@ -1,6 +1,6 @@
-module github.com/spf13/viper
+module github.com/IT-MorningStar/viper
 
-go 1.12
+go 1.21
 
 require (
 	github.com/bketelsen/crypt v0.0.3-0.20200106085610-5cbc8cc4026c
